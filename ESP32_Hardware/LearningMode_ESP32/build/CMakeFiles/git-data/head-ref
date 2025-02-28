@@ -1,1 +1,3 @@
-fcd9e13719e6659f58cc2acb8dc2dab3f1d8130c
+0000000000000000000000000000000000000000 cedb7952575fdc040d513e1f834d01dc17c0fb64 Annmon James <annmonrajijameschiramel@gmail.com> 1740662263 +0530	branch: Created from main
+cedb7952575fdc040d513e1f834d01dc17c0fb64 fcd9e13719e6659f58cc2acb8dc2dab3f1d8130c Annmon James <annmonrajijameschiramel@gmail.com> 1740716939 +0530	commit: Created ESP-IDF example code for WebSocket
+fcd9e13719e6659f58cc2acb8dc2dab3f1d8130c 82cb67bb494615721636f8a6c587ae558f772ce8 Annmon James <annmonrajijameschiramel@gmail.com> 1740732761 +0530	commit: Created a new official project 'LearningMode_ESP32', so those 2 projects - softAP and WebSocket can be integrated later into this main project

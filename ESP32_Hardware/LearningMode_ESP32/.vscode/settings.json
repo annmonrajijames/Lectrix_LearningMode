@@ -6,5 +6,6 @@
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
     "idf.portWin": "COM4",
-    "idf.toolsPathWin": "C:\\Users\\annmon.james\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\annmon.james\\.espressif",
+    "idf.flashType": "UART"
 }

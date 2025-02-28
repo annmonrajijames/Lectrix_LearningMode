@@ -1,3 +1,4 @@
-idf_component_register(SRCS "hello_world_main.c"
-                    PRIV_REQUIRES spi_flash
-                    INCLUDE_DIRS "")
+idf_component_register(
+    SRCS "main.c" "softap_example.c" "ws_echo_server.c"
+    INCLUDE_DIRS "."
+)
