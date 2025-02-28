@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/ws_echo_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
