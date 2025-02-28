@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/CMakeFiles/bootloader
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/CMakeFiles/bootloader.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/CMakeFiles/bootloader-complete.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Lectrix_Annmon/Git_projects/Lectrix_LearningMode/ESP32_Hardware/LearningMode_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
